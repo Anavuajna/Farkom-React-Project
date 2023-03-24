@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Carousel } from "./Carousel";
-import "./App.css";
 import back from "./back.png";
 import next from "./next.png"
 import About from "./About";

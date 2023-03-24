@@ -1,5 +1,3 @@
-import './App.css';
-
 function About() {
     return (
         <div className='contact-container'>
